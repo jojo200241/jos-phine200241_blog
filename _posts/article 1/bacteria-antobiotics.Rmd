@@ -1,9 +1,9 @@
 ---
 title: "Venom"
 description: |
-  Analysis of "More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut"
+  "Bizarre caecilians may be the only amphibians with venomous bites"
 author:
-  - name: JOJO
+  - name: "Joséphine"
 date: "`r Sys.Date()`"
 categories:
   - "Venom research"
@@ -20,6 +20,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
+
+[lien de l'arcticle en question](https://www.sciencenews.org/article/caecilians-amphibians-venomous-bites)
 ![](images/jpg120051fa.png)
 
 This post is an analysis of Analysis of *More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut* [@UniversityofBirmingham]. 
