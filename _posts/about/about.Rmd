@@ -8,7 +8,8 @@ output: distill::distill_article
 
 hello every one!!
 I'll introduce myself my name is Joséphine Dumortier I'm in second bachelor in Biologie at UMons in Belgium.
+This year I am taking the English course of Mrs. Ingrid Van Lancker.
 After my study I would like to teach at the end of secondary school in biology and chemistry.
 This section must bu include a short presentation of you.
 
-- first name/surname, teacher’s name, class name and academic year
+

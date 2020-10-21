@@ -1,14 +1,16 @@
 name: "Joséphine Dumortier"
-title: "JoJo's blog"
+title: "Joséphine's blog"
 output_dir: "docs"
 navbar:
   right:
     - text: Sections
       menu:
-        - text: "M.E.A.L."
-          href: "posts/meal/index.html" 
+        - text: "data science"
+          href: 
         - text: "articles"
           href: articles.html
+    - text: "M.E.A.L."
+      href: "posts/meal/index.html"
     - text: "Home"
       href: index.html
     - text: "About Me"

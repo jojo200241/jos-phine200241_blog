@@ -1,5 +1,5 @@
 ---
-title: "List of articles:"
+title: "Articles for English work:"
 site: distill::distill_website
 listing: 
   posts:

@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/article 1/",
-    "title": "Venom",
+    "title": "Article 1",
     "description": "\"Bizarre caecilians may be the only amphibians with venomous bites\"",
     "author": [
       {
@@ -14,7 +14,7 @@
       "Venom research"
     ],
     "preview": {},
-    "last_modified": "2020-10-21T14:48:08+02:00"
+    "last_modified": "2020-10-21T15:01:53+02:00"
   },
   {
     "path": "posts/about/",
