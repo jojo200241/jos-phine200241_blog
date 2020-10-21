@@ -1,13 +1,12 @@
 ---
-title: "Venom research:"
+title: "List of articles:"
 site: distill::distill_website
-listing: posts
+listing: 
+  posts:
+    - article 1
+    - article 2
+    - article 3
 ---
-  
-.  
-  
-# page de garde
-About venom
 
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post

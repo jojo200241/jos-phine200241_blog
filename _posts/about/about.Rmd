@@ -1,11 +1,14 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Joséphine" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
+hello every one!!
+I'll introduce myself my name is Joséphine Dumortier I'm in second bachelor in Biologie at UMons in Belgium.
+After my study I would like to teach at the end of secondary school in biology and chemistry.
 This section must bu include a short presentation of you.
 
 - first name/surname, teacher’s name, class name and academic year

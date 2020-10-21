@@ -1,12 +1,16 @@
 name: "Joséphine Dumortier"
-title: "___'the different venom present in the animal and plant worlds anda few treatment."
+title: "JoJo's blog"
 output_dir: "docs"
 navbar:
   right:
+    - text: Sections
+      menu:
+        - text: "M.E.A.L."
+          href: "posts/meal/index.html" 
+        - text: "articles"
+          href: articles.html
     - text: "Home"
       href: index.html
-    - text: "M.E.A.L."
-      href: "posts/meal/index.html"
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github

@@ -1,6 +1,21 @@
 [
   {
-    "path": "posts/2019-10-24-bacteria-antobiotics/",
+    "path": "posts/about/",
+    "title": "About Me",
+    "description": {},
+    "author": [
+      {
+        "name": "Joséphine",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-12",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-12T17:05:33+02:00"
+  },
+  {
+    "path": "posts/article 1/",
     "title": "Bacterium adaptation",
     "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
     "author": [
@@ -23,22 +38,20 @@
       "Bacteria",
       "Adaptation"
     ],
-    "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-08T11:26:13+02:00",
-    "preview_width": 3333,
-    "preview_height": 2667
+    "preview": {},
+    "last_modified": "2020-10-08T11:26:13+02:00"
   },
   {
-    "path": "posts/2019-10-25-biggest-rodent/",
-    "title": "Biggest rodent",
-    "description": "Analysis of \"Biggest rodent 'fought with teeth' like tusks\"",
+    "path": "posts/article 2/",
+    "title": "Bacterium adaptation",
+    "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
     "author": [
       {
         "name": "Student Unknown",
         "url": {}
       },
       {
-        "name": "Van Lancker Ingrid",
+        "name": "Nicolas Devilez",
         "url": {}
       },
       {
@@ -49,24 +62,36 @@
     "date": "2020-10-01",
     "categories": [
       "English for Science",
-      "Paleontology",
-      "Rodent"
+      "Bacteria",
+      "Adaptation"
     ],
     "preview": {},
     "last_modified": "2020-10-08T11:26:13+02:00"
   },
   {
-    "path": "posts/about/",
-    "title": "About Me",
-    "description": {},
+    "path": "posts/article 3/",
+    "title": "Bacterium adaptation",
+    "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
     "author": [
       {
-        "name": "___",
+        "name": "Student Unknown",
         "url": {}
+      },
+      {
+        "name": "Nicolas Devilez",
+        "url": {}
+      },
+      {
+        "name": "Engels Guyliann",
+        "url": "https://guyliann.netlify.com/fr"
       }
     ],
     "date": "2020-10-01",
-    "categories": [],
+    "categories": [
+      "English for Science",
+      "Bacteria",
+      "Adaptation"
+    ],
     "preview": {},
     "last_modified": "2020-10-08T11:26:13+02:00"
   },

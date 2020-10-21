@@ -1,17 +1,12 @@
 ---
-title: "Bacterium adaptation"
+title: "Venom"
 description: |
   Analysis of "More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut"
 author:
-  - name: Student Unknown
-  - name: Nicolas Devilez
-  - name: Engels Guyliann
-    url: https://guyliann.netlify.com/fr
+  - name: JOJO
 date: "`r Sys.Date()`"
 categories:
-  - "English for Science"
-  - "Bacteria"
-  - "Adaptation"
+  - "Venom research"
 preview: images/jpg120051fa.png
 #draft: TRUE
 bibliography: biblio/bacteria.bib
