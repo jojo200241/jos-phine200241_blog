@@ -22,8 +22,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 Link to article: [click here](https://www.sciencenews.org/article/caecilians-amphibians-venomous-bites)
+
 Publish on 3 july 2020
-![](images/jpg120051fa.png)
+
+Number of words :641
+ 
+This is what this little amphibian looks like: ![comes from ScienceNew,CarlosJared](https://www.sciencenews.org/wp-content/uploads/2020/07/070120_cw_caecilian_feat-1028x579.jpg)
 
 
 
