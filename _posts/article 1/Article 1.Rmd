@@ -1,9 +1,9 @@
 ---
 title: "Article 1"
 description: |
-  "Bizarre caecilians may be the only amphibians with venomous bites"
+  "Some spiders may spin poisonous webs laced with neurotoxins"
 author:
-  - name: "Joséphine"
+  - name: "Joséphine Dumortier"
 date: "`r Sys.Date()`"
 categories:
   - "Venom research"
@@ -20,10 +20,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
+## Source
 
 Link to article: [click here](https://www.sciencenews.org/article/caecilians-amphibians-venomous-bites)
 
-Publish on 3 july 2020
+Published on 3 july 2020
 
 Number of words :641
  
@@ -50,7 +51,7 @@ This is what this little amphibian looks like: ![comes from ScienceNew,CarlosJar
 | Researchers                        | Pedro Mailho-fontana with fellow evolutionary biologists Marta Antoniazzi and Carlos Jared in the Butantan Institute in São Paulo |
 | Published in? When? (if mentioned) | Published online July 3, 2020                                                                                                     |
 | General topics                     | The caelicians, the only venomous amphibians.                                                                                     |
-| Procedure/ what was examined       | Direct study of caecilians by dissection.                                                                                         |
+| Procedure/ what was examined       | They studied this animal by dissecting it, then it worked as a team with other scientists to get their opinion.                         |
 | Conclusions,  discovery.           | Ceacilians have a mucus-secreting gland as well as ducts going to the teeth that allow them to inject it.                         |
 | Remaining questions                | Is their venom dangerous? If so, are there any remedies?                                                                          |
 
