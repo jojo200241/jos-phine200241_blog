@@ -18,11 +18,11 @@
   },
   {
     "path": "posts/article 2/",
-    "title": "Venom",
-    "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
+    "title": "Article 2",
+    "description": {},
     "author": [
       {
-        "name": "JOJO",
+        "name": "Joséphine Dumortier",
         "url": {}
       }
     ],
@@ -31,7 +31,7 @@
       "Venom research"
     ],
     "preview": {},
-    "last_modified": "2020-11-02T09:08:38+01:00"
+    "last_modified": "2020-11-02T11:17:55+01:00"
   },
   {
     "path": "posts/about/",

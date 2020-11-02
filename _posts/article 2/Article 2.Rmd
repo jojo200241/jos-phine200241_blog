@@ -27,5 +27,29 @@ Link to article: [click here](https://www.sciencenews.org/article/spiders-poison
 Published on august 3, 2020 at 8:00 AM
 
 Number of words :526.
+
+The impressive webs of banana spiders (Trichonephila clavipes): ![comes from ScienceNew,CHARLES J. SHARP/WIKIMEDIA COMMONS](https://www.sciencenews.org/wp-content/uploads/2020/07/072420_cw_toxicweb_feat-1028x579.jpg)
  
 ## vocabulary:
+
+| Word from the text | synonym/definition in english                                                                                                         | french translation |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| Web                | Is a structure created by a spider out of  proteinaceous spider silk extruded from its  spinnerets, generally meant to catch its prey | toile              |
+| Stickiness         | Having the property of adhering or sticking  to a surface; adhesive.                                                                  | viscusité          |
+| Ensnaring          | To catch (an animal or person) in a trap or  in a place from which there is no escape                                                 | capturer           |
+| Owner              | One with an interest in and often dominion  over property. A proprietor.                                                              | propriétaire       |
+| Underappreciated   | Not recognized, as to quality or worth:  an unappreciated gesture of goodwill.                                                        | Sous-éstimé        |
+| Chief              | Most important or influential: the chief  ingredients in the stew. See Usage Note at  absolute.                                       | principale         |
+
+## Analysis table about the study:
+
+| ask                                | answer                                                                                                                                                       |
+|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers                        | Mario palma and a student Franciele Esteves.                                                                                                                 |
+| Published in? When? (if mentioned) | on august 3, 2020 at 8:00 AM                                                                                                                                 |
+| General topics                     | Spider webs are said to have a paralyzing toxin.                                                                                                             |
+| Procedure/ what was examined       | First he observed, then he analysed the active genes  and proteins in the silk glands of banana spiders,  finally we tested the active substance on insects. |
+| Conclusions,  discovery.           | Thanks to the analysis of the active genes present  in the web, they were able to confirm the presence of  proteins resembling known neurotoxins.            |
+| Remaining questions                | Does the toxin act directly on contact? Is it really used as a toxin and not as a deterrent?                                                                 |
+
+
