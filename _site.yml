@@ -21,7 +21,7 @@ base_url: jojo200241.github.io/jos-phine200241_blog
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      #disqus: 
+      disqus: Joséphine Dumortier's blog
 output:
   distill::distill_article:
     css: style.css
