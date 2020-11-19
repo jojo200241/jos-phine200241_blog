@@ -1,0 +1,39 @@
+---
+title: "Article 4: Fish poop exposes what eats the destructive crown-of-thorns starfish"
+description: |
+  lalala.
+author:
+  - name: "Joséphine Dumortier"
+date: "`r Sys.Date()`"
+categories:
+  - "Venom research"
+preview: images/jpg120051fa.png
+#draft: TRUE
+#bibliography: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Source
+
+Link to article: [click here](https://www.sciencenews.org/article/fish-poop-exposes-what-eats-destructive-crown-thorns-starfish)
+
+Published on JUNE 8, 2020 AT 6:00 AM.
+
+Number of words :647.
+
+crown-of-thorns starfish.: ![Credit: pinterest.frpinterest.fr](https://i.pinimg.com/originals/f0/8f/43/f08f43a67df777e6df8bda7d44278859.jpg)
+ 
+## vocabulary:
+
+
+
+## Analysis table about the study:
+
+

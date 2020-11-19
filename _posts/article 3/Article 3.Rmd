@@ -1,0 +1,53 @@
+---
+title: "Article 3: Native stinging tree toxins match the pain of spiders and scorpions."
+description: |
+
+author:
+  - name: "Joséphine Dumortier"
+date: "`r Sys.Date()`"
+categories:
+  - "Venom research"
+preview: images/jpg120051fa.png
+#draft: TRUE
+bibliography: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Source
+
+Link to article: [click here](https://phys.org/news/2020-09-native-tree-toxins-pain-spiders.html)
+
+Published on september 16, 2020.
+
+Number of words :526.
+
+The Gympie Gympie stinging tree has needle-like trichomes which inject toxins.: ![comes from Phys.org, Credit: Institute for Molecular Bioscience, University of Queensland](https://scx2.b-cdn.net/gfx/news/hires/2020/nativestingi.jpg)
+ 
+## vocabulary:
+
+| Word from the text | synonym/definition in english                                                                                                                              | french translation |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| painful            | feeling or giving pain                                                                                                                                     | douloureuse        |
+| stinging           | The wound or pain caused by stinging.                                                                                                                      | piquant            |
+| snails             | any other gastropod with a spirally coiled  shell                                                                                                          | escargots          |
+| nettles            |  Any of various plants of the genus Urtica,  having toothed leaves,unisexual apetalous  flowers, and stinging hairs that cause  skin irritation on contact | orties             |
+| scaffolds          | A temporary platform, either supported from  below or suspended from above                                                                                 | échafaudage        |
+| purpose            | the intention, aim or function of something                                                                                                                | objectif           |
+
+## Analysis table about the study:
+
+| Ask                                | Answer                                                                                                                                                                                                                                       |
+|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers                        | Professor Irina Vetter, Dr. Thomas  Durek and their teams at University  of Queensland                                                                                                                                                       |
+| Published in? When? (if mentioned) | Provided by University of Queensland                                                                                                                                                                                                         |
+| General topics                     | The discovery of a new family of toxins  contained in the thorns of an Australian  tree                                                                                                                                                      |
+| Procedure/ what was examined       | Search for the molecular structure of the  toxin, and then search for the primary  structure of the protein                                                                                                                                  |
+| Conclusions,  discovery.           | The researchers found that the neurotoxin  produced by the stinging tree Gympie-Gympie  possesses a class of small proteins similar  to the toxins of spiders and cone snails.  There is therefore a parallel evolution  with animal toxins. |
+| Remaining questions                | Why is this plant so poisonous? Does it have  any particular predator?                                                                                                                                                                       |

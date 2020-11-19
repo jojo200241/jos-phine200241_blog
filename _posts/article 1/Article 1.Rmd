@@ -1,7 +1,5 @@
 ---
-title: "Article 1 :Bizarre caecilians may be the only amphibians with venomous bites."
-description: |
-  
+title: "Article 1: Bizarre caecilians may be the only amphibians with venomous bites."
 author:
   - name: "Joséphine Dumortier"
 date: "`r Sys.Date()`"
@@ -9,7 +7,7 @@ categories:
   - "Venom research"
 preview: images/jpg120051fa.png
 #draft: TRUE
-bibliography: biblio/bacteria.bib
+#bibliography:
 output:
   distill::distill_article:
     self_contained: false

@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>jojo200241.github.io/jos-phine200241_blog/articles.html</loc>
+    <loc>https://jojo200241.github.io/jos-phine200241_blog/articles.html</loc>
     <lastmod>2020-11-02T16:21:46+01:00</lastmod>
   </url>
   <url>
-    <loc>jojo200241.github.io/jos-phine200241_blog/</loc>
+    <loc>https://jojo200241.github.io/jos-phine200241_blog/</loc>
     <lastmod>2020-10-21T15:02:01+02:00</lastmod>
   </url>
   <url>
-    <loc>jojo200241.github.io/jos-phine200241_blog/posts/article 2/</loc>
+    <loc>https://jojo200241.github.io/jos-phine200241_blog/posts/Article 1/</loc>
+    <lastmod>2020-11-19T12:23:30+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jojo200241.github.io/jos-phine200241_blog/posts/article 2/</loc>
     <lastmod>2020-11-02T16:34:03+01:00</lastmod>
   </url>
   <url>
-    <loc>jojo200241.github.io/jos-phine200241_blog/posts/article 1/</loc>
+    <loc>https://jojo200241.github.io/jos-phine200241_blog/posts/article 1/</loc>
     <lastmod>2020-11-02T16:34:17+01:00</lastmod>
   </url>
   <url>
-    <loc>jojo200241.github.io/jos-phine200241_blog/posts/about/</loc>
+    <loc>https://jojo200241.github.io/jos-phine200241_blog/posts/about/</loc>
     <lastmod>2020-10-12T17:05:33+02:00</lastmod>
   </url>
   <url>
-    <loc>jojo200241.github.io/jos-phine200241_blog/posts/article 3/</loc>
+    <loc>https://jojo200241.github.io/jos-phine200241_blog/posts/article 3/</loc>
     <lastmod>2020-10-08T11:26:13+02:00</lastmod>
   </url>
   <url>
-    <loc>jojo200241.github.io/jos-phine200241_blog/posts/meal/</loc>
+    <loc>https://jojo200241.github.io/jos-phine200241_blog/posts/meal/</loc>
     <lastmod>2020-10-08T11:26:14+02:00</lastmod>
   </url>
 </urlset>

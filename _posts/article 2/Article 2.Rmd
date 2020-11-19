@@ -1,5 +1,5 @@
 ---
-title: "Article 2 :Some spiders may spin poisonous webs laced with neurotoxins."
+title: "Article 2: Some spiders may spin poisonous webs laced with neurotoxins."
 description: |
 
 author:
@@ -9,7 +9,7 @@ categories:
   - "Venom research"
 preview: images/jpg120051fa.png
 #draft: TRUE
-bibliography: biblio/bacteria.bib
+bibliography: 
 output:
   distill::distill_article:
     self_contained: false

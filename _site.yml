@@ -1,27 +1,27 @@
 name: "Joséphine Dumortier"
-title: "Joséphine Dumortier's blog""
+title: "Joséphine Dumortier's blog"
 output_dir: "docs"
 navbar:
   right:
-    - text: Sections
-      menu:
-        - text: "data science"
-          href: 
-        - text: "articles"
-          href: articles.html
-    - text: "M.E.A.L."
-      href: "posts/meal/index.html"
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: "posts/about/index.html"
+    - text: "Sections"
+      menu:
+        #- text: "Data Science"
+        #  href: SDDexos.html
+        - text: "Articles"
+          href: articles.html
+        - text: "M.E.A.L."
+          href: "posts/meal/index.html"
     - icon: fab fa-github
       href: https://github.com/jojo200241/jos-phine200241_blog.git
-base_url: jojo200241.github.io/jos-phine200241_blog
+base_url: https://jojo200241.github.io/jos-phine200241_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      disqus: Joséphine Dumortier's blog
+      disqus: josephine-dumortiers-blog
 output:
   distill::distill_article:
     css: style.css
