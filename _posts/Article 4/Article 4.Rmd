@@ -1,7 +1,5 @@
 ---
 title: "Article 4: Fish poop exposes what eats the destructive crown-of-thorns starfish"
-description: |
-  lalala.
 author:
   - name: "Joséphine Dumortier"
 date: "`r Sys.Date()`"

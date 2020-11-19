@@ -1,7 +1,5 @@
 ---
 title: "Article 2: Some spiders may spin poisonous webs laced with neurotoxins."
-description: |
-
 author:
   - name: "Joséphine Dumortier"
 date: "`r Sys.Date()`"

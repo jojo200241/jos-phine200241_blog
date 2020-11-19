@@ -1,7 +1,5 @@
 ---
 title: "Article 3: Native stinging tree toxins match the pain of spiders and scorpions."
-description: |
-
 author:
   - name: "Joséphine Dumortier"
 date: "`r Sys.Date()`"
