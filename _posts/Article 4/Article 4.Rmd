@@ -24,14 +24,28 @@ Link to article: [click here](https://www.sciencenews.org/article/fish-poop-expo
 
 Published on JUNE 8, 2020 AT 6:00 AM.
 
-Number of words :647.
+Number of words :748.
 
 crown-of-thorns starfish.: ![Credit: pinterest.frpinterest.fr](https://i.pinimg.com/originals/f0/8f/43/f08f43a67df777e6df8bda7d44278859.jpg)
  
 ## vocabulary:
 
-
+| Word from the text | synonym/definition in english                                                   | french translation |
+|--------------------|---------------------------------------------------------------------------------|--------------------|
+| spikes             | Long, sharp, thin end of a pricking object                                      | pointes            |
+| to crawl           | To move slowly on the hands and knees or by  dragging the body along the ground | ramper             |
+| a nets             | Network composed of intersecting meshes.                                        | un filets          |
+| tidbits            | a choice morsel of food                                                         | des friandises     |
+| nipping            | Bite lightly several times.                                                     | mordiller          |
+| unveiled           | Discover, reveal what was secret.                                               | dévoiler           |
 
 ## Analysis table about the study:
 
-
+| Ask                                | Answer                                                                                                                                                                                                                       |
+|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers                        | Frederieke Kroon, a biologist at  the Australian Institute of Marine  Science (AIMS) in Townsville, and  Kristen Dahl, a marine ecologist  at the University of Florida in  Gainesville                                      |
+| Published in? When? (if mentioned) | The 18 May in Scientifics Report                                                                                                                                                                                             |
+| General topics                     | Identify predators of starfish when  eating coral polyps. It would be good  news for coral reefs                                                                                                                             |
+| Procedure/ what was examined       | To do this, we analyze the guts and  excrements of reef fish to find out  which are predators of crown of thorns.  It would then be possible to suppress their epidemics and therefore avoid the  destruction of the polyps. |
+| Conclusions,  discovery.           | There are more species of fish than  expected that can eat thorn crown.                                                                                                                                                      |
+| Remaining questions                | If we increase the number of predators  of the thorn crown, are we not going to  risk its disappearance?                                                                                                                     |
