@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "path": "posts/Article 3/",
     "title": "Article 3: Native stinging tree toxins match the pain of spiders and scorpions.",
     "description": {},
@@ -19,21 +20,24 @@
   {
     "path": "posts/Article 1/",
     "title": "Article 1: Bizarre caecilians may be the only amphibians with venomous bites.",
+=======
+    "path": "posts/about/",
+    "title": "About Me",
+>>>>>>> 24070336798465e45d3c290d715d6d73b0bc53f0
     "description": {},
     "author": [
       {
-        "name": "Joséphine Dumortier",
+        "name": "Joséphine",
         "url": {}
       }
     ],
     "date": "2020-11-19",
-    "categories": [
-      "Venom research"
-    ],
+    "categories": [],
     "preview": {},
-    "last_modified": "2020-11-19T12:23:30+01:00"
+    "last_modified": "2020-11-19T17:17:35+01:00"
   },
   {
+<<<<<<< HEAD
     "path": "posts/Article 5/",
     "title": "Article 5: ",
     "description": {},
@@ -53,23 +57,10 @@
   {
     "path": "posts/article 2/",
     "title": "Article 2 :Some spiders may spin poisonous webs laced with neurotoxins.",
-    "description": {},
-    "author": [
-      {
-        "name": "Joséphine Dumortier",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-02",
-    "categories": [
-      "Venom research"
-    ],
-    "preview": {},
-    "last_modified": "2020-11-02T16:34:03+01:00"
-  },
-  {
+=======
     "path": "posts/article 1/",
-    "title": "Article 1 :Bizarre caecilians may be the only amphibians with venomous bites.",
+    "title": "Article 1: Bizarre caecilians may be the only amphibians with venomous bites.",
+>>>>>>> 24070336798465e45d3c290d715d6d73b0bc53f0
     "description": {},
     "author": [
       {
@@ -77,54 +68,63 @@
         "url": {}
       }
     ],
-    "date": "2020-11-02",
+    "date": "2020-11-19",
     "categories": [
       "Venom research"
     ],
     "preview": {},
-    "last_modified": "2020-11-02T16:34:17+01:00"
+    "last_modified": "2020-11-19T17:20:15+01:00"
   },
   {
-    "path": "posts/about/",
-    "title": "About Me",
+    "path": "posts/article 2/",
+    "title": "Article 2: Some spiders may spin poisonous webs laced with neurotoxins.",
     "description": {},
     "author": [
       {
-        "name": "Joséphine",
+        "name": "Joséphine Dumortier",
         "url": {}
       }
     ],
-    "date": "2020-10-12",
-    "categories": [],
+    "date": "2020-11-19",
+    "categories": [
+      "Venom research"
+    ],
     "preview": {},
-    "last_modified": "2020-10-12T17:05:33+02:00"
+    "last_modified": "2020-11-19T17:20:24+01:00"
   },
   {
     "path": "posts/article 3/",
-    "title": "Bacterium adaptation",
-    "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
+    "title": "Article 3: Native stinging tree toxins match the pain of spiders and scorpions.",
+    "description": {},
     "author": [
       {
-        "name": "Student Unknown",
+        "name": "Joséphine Dumortier",
         "url": {}
-      },
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
       }
     ],
-    "date": "2020-10-01",
+    "date": "2020-11-19",
     "categories": [
-      "English for Science",
-      "Bacteria",
-      "Adaptation"
+      "Venom research"
     ],
     "preview": {},
-    "last_modified": "2020-10-08T11:26:13+02:00"
+    "last_modified": "2020-11-19T17:20:36+01:00"
+  },
+  {
+    "path": "posts/Article 4/",
+    "title": "Article 4: Fish poop exposes what eats the destructive crown-of-thorns starfish",
+    "description": {},
+    "author": [
+      {
+        "name": "Joséphine Dumortier",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-19",
+    "categories": [
+      "Venom research"
+    ],
+    "preview": {},
+    "last_modified": "2020-11-19T17:20:46+01:00"
   },
   {
     "path": "posts/meal/",
@@ -136,12 +136,12 @@
         "url": {}
       }
     ],
-    "date": "2020-10-01",
+    "date": "2020-11-19",
     "categories": [
       "English for Science",
       "M.E.A.L."
     ],
     "preview": {},
-    "last_modified": "2020-10-08T11:26:14+02:00"
+    "last_modified": "2020-11-19T17:17:51+01:00"
   }
 ]
