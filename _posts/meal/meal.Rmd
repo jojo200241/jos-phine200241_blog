@@ -1,7 +1,7 @@
 ---
 title: "My English Activity Log : MEAL"
 author:
-  - name: "___" 
+  - name: "Joséphine Dumortier" 
 date: "`r Sys.Date()`"
 categories:
   - "English for Science"

@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-author:
+author: 
   - name: "Joséphine" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
