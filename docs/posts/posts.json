@@ -1,7 +1,40 @@
 [
   {
-<<<<<<< HEAD
-    "path": "posts/Article 3/",
+    "path": "posts/Article1/",
+    "title": "Article 1: Bizarre caecilians may be the only amphibians with venomous bites.",
+    "description": {},
+    "author": [
+      {
+        "name": "Joséphine Dumortier",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-02",
+    "categories": [
+      "Venom research"
+    ],
+    "preview": {},
+    "last_modified": "2021-03-02T12:41:09+01:00"
+  },
+  {
+    "path": "posts/Article2/",
+    "title": "Article 2: Some spiders may spin poisonous webs laced with neurotoxins.",
+    "description": {},
+    "author": [
+      {
+        "name": "Joséphine Dumortier",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-02",
+    "categories": [
+      "Venom research"
+    ],
+    "preview": {},
+    "last_modified": "2021-03-02T12:40:53+01:00"
+  },
+  {
+    "path": "posts/Article3/",
     "title": "Article 3: Native stinging tree toxins match the pain of spiders and scorpions.",
     "description": {},
     "author": [
@@ -10,20 +43,68 @@
         "url": {}
       }
     ],
-    "date": "2020-11-29",
+    "date": "2021-03-02",
     "categories": [
       "Venom research"
     ],
     "preview": {},
-    "last_modified": "2020-11-29T09:34:22+01:00"
+    "last_modified": "2021-03-02T12:40:38+01:00"
   },
   {
-    "path": "posts/Article 1/",
-    "title": "Article 1: Bizarre caecilians may be the only amphibians with venomous bites.",
-=======
+    "path": "posts/Article4/",
+    "title": "Article 4: Fish poop exposes what eats the destructive crown-of-thorns starfish",
+    "description": {},
+    "author": [
+      {
+        "name": "Joséphine Dumortier",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-02",
+    "categories": [
+      "Venom research"
+    ],
+    "preview": {},
+    "last_modified": "2021-03-02T12:40:21+01:00"
+  },
+  {
+    "path": "posts/Article5/",
+    "title": "Article 5: ",
+    "description": {},
+    "author": [
+      {
+        "name": "Joséphine Dumortier",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-02",
+    "categories": [
+      "Venom research"
+    ],
+    "preview": {},
+    "last_modified": "2021-03-02T12:39:58+01:00"
+  },
+  {
+    "path": "posts/meal/",
+    "title": "My English Activity Log : MEAL",
+    "description": {},
+    "author": [
+      {
+        "name": "Joséphine Dumortier",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-02",
+    "categories": [
+      "English for Science",
+      "M.E.A.L."
+    ],
+    "preview": {},
+    "last_modified": "2021-03-02T12:34:40+01:00"
+  },
+  {
     "path": "posts/about/",
     "title": "About Me",
->>>>>>> 24070336798465e45d3c290d715d6d73b0bc53f0
     "description": {},
     "author": [
       {
@@ -34,114 +115,6 @@
     "date": "2020-11-19",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-11-19T17:17:35+01:00"
-  },
-  {
-<<<<<<< HEAD
-    "path": "posts/Article 5/",
-    "title": "Article 5: ",
-    "description": {},
-    "author": [
-      {
-        "name": "Joséphine Dumortier",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-19",
-    "categories": [
-      "Venom research"
-    ],
-    "preview": {},
-    "last_modified": "2020-11-19T16:56:04+01:00"
-  },
-  {
-    "path": "posts/article 2/",
-    "title": "Article 2 :Some spiders may spin poisonous webs laced with neurotoxins.",
-=======
-    "path": "posts/article 1/",
-    "title": "Article 1: Bizarre caecilians may be the only amphibians with venomous bites.",
->>>>>>> 24070336798465e45d3c290d715d6d73b0bc53f0
-    "description": {},
-    "author": [
-      {
-        "name": "Joséphine Dumortier",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-19",
-    "categories": [
-      "Venom research"
-    ],
-    "preview": {},
-    "last_modified": "2020-11-19T17:20:15+01:00"
-  },
-  {
-    "path": "posts/article 2/",
-    "title": "Article 2: Some spiders may spin poisonous webs laced with neurotoxins.",
-    "description": {},
-    "author": [
-      {
-        "name": "Joséphine Dumortier",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-19",
-    "categories": [
-      "Venom research"
-    ],
-    "preview": {},
-    "last_modified": "2020-11-19T17:20:24+01:00"
-  },
-  {
-    "path": "posts/article 3/",
-    "title": "Article 3: Native stinging tree toxins match the pain of spiders and scorpions.",
-    "description": {},
-    "author": [
-      {
-        "name": "Joséphine Dumortier",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-19",
-    "categories": [
-      "Venom research"
-    ],
-    "preview": {},
-    "last_modified": "2020-11-19T17:20:36+01:00"
-  },
-  {
-    "path": "posts/Article 4/",
-    "title": "Article 4: Fish poop exposes what eats the destructive crown-of-thorns starfish",
-    "description": {},
-    "author": [
-      {
-        "name": "Joséphine Dumortier",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-19",
-    "categories": [
-      "Venom research"
-    ],
-    "preview": {},
-    "last_modified": "2020-11-19T17:20:46+01:00"
-  },
-  {
-    "path": "posts/meal/",
-    "title": "My English Activity Log : MEAL",
-    "description": {},
-    "author": [
-      {
-        "name": "___",
-        "url": {}
-      }
-    ],
-    "date": "2020-11-19",
-    "categories": [
-      "English for Science",
-      "M.E.A.L."
-    ],
-    "preview": {},
-    "last_modified": "2020-11-19T17:17:51+01:00"
+    "last_modified": "2020-11-29T10:14:27+01:00"
   }
 ]
