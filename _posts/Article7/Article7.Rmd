@@ -1,0 +1,37 @@
+---
+title: "Article 7: A pill for heavy metal poisoning may also save snakebite victims"
+author:
+  - name: "Joséphine Dumortier"
+date: "`r Sys.Date()`"
+categories:
+  - "Venom research"
+preview: images/jpg120051fa.png
+#draft: TRUE
+#bibliography: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Source
+
+Link to article: [click here](https://www.sciencenews.org/article/snakebite-treatment-unithiol-heavy-metal-poisoning)
+
+Published on MAY 6, 2020 AT 2:00 PM.
+
+Number of words :667.
+
+crown-of-thorns starfish.: ![Credit: ](https://www.sciencenews.org/wp-content/uploads/2020/05/050520_snakebite-pill_feat.jpg)
+ 
+## vocabulary:
+
+
+
+## Analysis table about the study:
+
+

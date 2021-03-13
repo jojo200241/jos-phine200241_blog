@@ -1,0 +1,61 @@
+---
+title: "Article 6: Spitting cobras ’venom evolved to inflict pain"
+author:
+  - name: "Joséphine Dumortier"
+date: "`r Sys.Date()`"
+categories:
+  - "Venom research"
+preview: images/jpg120051fa.png
+#draft: TRUE
+#bibliography: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Source
+
+Link to article: [click here]()
+
+Published on JUNE 8, 2020 AT 6:00 AM.
+
+Number of words :647.
+
+crown-of-thorns starfish.: ![Credit: ]()
+ 
+## vocabulary:
+
+| Word from the text | synonym/definition in english      | french translation |
+|--------------------|------------------------------------|--------------------|
+| spitting           | expels a liquide through the mouth | cracher            |
+| tailored           | apply, adjust one thing to another | adapté             |
+| a stream           | flow of a liquid                   | un flux            |
+| subdue             | dominate                           | maitriser          |
+| to probe           | study carefully                    | sonder             |
+| triggered          | provoke, set in motion             | déclancher         |
+| stomped            | to crush                           | piétiné            |
+| hoofed mammal      | mammal with a big nail             | mammifère à sabot  |
+
+
+## Analysis table about the study:
+
+***Researchers?
+Timothy Jackson (evolitionary toxinologist at the universitu of melbourne)
+Nicholas casewell (venom biologist at the liverpool school of tropical medicine) ans colleagues
+Stephen mackessy (toxinoligist at the university of northern colorado)
+***Published in? when (if mentioned)?
+
+***General topic
+There is an evolutionary convergence of spitting snake venoms. This venom contains, like the venom of other types of snakes, three-finger toxins. But in spitting snakes, it is combine with phospholipasa A2 toxins. Wich causes more pain.
+***Procedure/ what was examined
+They examined the venoms of different snakes and they found that spitting snakes were composed in the same way even though they originated from very remote areas.
+***Conclusions/ discovery
+There has been an evolutionary convergence between spitting snakes so that their venom faces very badly in order to be able to  defend themselves well against animals that could harm them
+***Remaining questions
+/
+
