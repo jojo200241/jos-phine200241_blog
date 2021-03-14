@@ -1,5 +1,5 @@
 ---
-title: "Article 5: "
+title: "Article 1: Bizarre caecilians may be the only amphibians with venomous bites."
 author:
   - name: "Joséphine Dumortier"
 date: "`r Sys.Date()`"
@@ -7,7 +7,7 @@ categories:
   - "Venom research"
 preview: images/jpg120051fa.png
 #draft: TRUE
-#bibliography: 
+#bibliography:
 output:
   distill::distill_article:
     self_contained: false
@@ -20,18 +20,37 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Source
 
-Link to article: [click here]()
+Link to article: [click here](https://www.sciencenews.org/article/caecilians-amphibians-venomous-bites)
 
-Published on JUNE 8, 2020 AT 6:00 AM.
+Published on 3 july 2020
 
-Number of words :647.
-
-crown-of-thorns starfish.: ![Credit: ]()
+Number of words :641
  
+This is what this little amphibian looks like: ![comes from ScienceNew,CarlosJared](https://www.sciencenews.org/wp-content/uploads/2020/07/070120_cw_caecilian_feat-1028x579.jpg)
+
+
+
 ## vocabulary:
 
-
+| word from the text | synonym/definition in english                                                                      | french translation |
+|--------------------|----------------------------------------------------------------------------------------------------|--------------------|
+| skin               | skin is the layer of usually soft, flexible outer  tissue covering the body of a vertebrate animal | la peau            |
+| tails              | Extension of the spine of many animals                                                             | la queue           |
+| protrusions        | Hump-shaped protrusion on the surface of a bone                                                    | protubérance       |
+| grooves            | Small notch                                                                                        | rainure            |
+| ooze               | Going out, flowing almost imperceptibly, talking about a liquid.                                   | suinter            |
+| subdue             | To govern someone with absolute authority.                                                         | maitriser          |
+| weapons            | What is used to attack, to defend oneself                                                          | arme               |
 
 ## Analysis table about the study:
+
+| Questions                             | answers                                                                                                                            |
+|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Researchers                        | Pedro Mailho-fontana with fellow evolutionary biologists Marta Antoniazzi and Carlos Jared in the Butantan Institute in São Paulo |
+| Published in? When? (if mentioned) | Published online July 3, 2020                                                                                                     |
+| General topics                     | The caelicians, the only venomous amphibians.                                                                                     |
+| Procedure/ what was examined       | They studied this animal by dissecting it, then it worked as a team with other scientists to get their opinion.                         |
+| Conclusions,  discovery.           | Ceacilians have a mucus-secreting gland as well as ducts going to the teeth that allow them to inject it.                         |
+| Remaining questions                | Is their venom dangerous? If so, are there any remedies?                                                                          |
 
 

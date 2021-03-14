@@ -30,8 +30,25 @@ crown-of-thorns starfish.: ![Credit: ](https://www.sciencenews.org/wp-content/up
  
 ## vocabulary:
 
-
+| Word from the text | synonym/definition in english      | french translation |
+|--------------------|------------------------------------|--------------------|
+| delayed            | who is behind in his development   | retardée           |
+| stoking that dream | make the dream come true           | attiser ce rêve    |
+| widespread         | very know and current              | très répandu       |
+| starve             | who suffers from hunger            | affamé             |
+| trials             | attempts, actions of experimenting | des essais         |
+| ultimately         | at the end                         | finalement         |
+| pairing            | put together, reunite              | associer           |
+| poor               | not rich                           | pauvre             |
+|  nearby            | not far, very close                | à proximité        |
 
 ## Analysis table about the study:
 
-
+| ask                                 | answer                                                                                                                                                                                                                            |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Researchers                         | Nicholas casewell (venom biologist at the liverpool   school of tropical medicine) ans colleagues                                                                                                                                 |
+| Published in? When?  (if mentioned) | publish in ScienceNew, june 6 2020.                                                                                                                                                                                               |
+| General topics                      | snake venom pills                                                                                                                                                                                                                 |
+| Procedure/ what was examined        | First they do experiment on mice, then they will do a  test in Africa on humans. Knowing that before all this, research had already been done on white man when testing for the use of this drug to prevent heavy metal poisoning |
+| Conclusions,  discovery.            | Scientists have discovered that a drug against heavy metal poisoning can have effects against some snake venom. But these pills have no effect on the venom which targets  the nerves instead of the blood                        |
+| Remaining questions                 | /                                                                                                                                                                                                                                 |
