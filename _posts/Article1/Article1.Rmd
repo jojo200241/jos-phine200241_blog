@@ -1,5 +1,5 @@
 ---
-title: "Article 5: What Should You Do If You're Bitten by a Venomous Snake?"
+title: "Article 1: What Should You Do If You're Bitten by a Venomous Snake?"
 author:
   - name: "Joséphine Dumortier"
 date: "`r Sys.Date()`"
