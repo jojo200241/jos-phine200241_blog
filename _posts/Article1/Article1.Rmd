@@ -30,7 +30,22 @@ A bieutiful and dangerous snake: ![Credit: ](https://cdn.mos.cms.futurecdn.net/v
  
 ## vocabulary:
 
-
+| Word from the text | synonym/definition in english                                | french translation  |
+|--------------------|--------------------------------------------------------------|---------------------|
+| the wrong way      | do not do it right                                           | la mauvaise manière |
+| a tourniquet       | link used to compress an artery to stop bleeding.            | un garrot           |
+| the wound          | injury caused by an external cause                           | une blessure        |
+| swelling           | volume increase                                              | gonflement          |
+| blistering         | skin blister                                                 | cloque              |
+| shun               | to escape something by passing far away                      | éviter              |
+| threatened         | A sign, an omen that makes you fear something                | menacé              |
+| rattlesnakes       | a snake that makes noise with its nail                       | serpents à sonnette |
+| swiftly            | quikly                                                       | rapidement          |
+| breathing          | function by wich cells oxidize organic substances            | respiration         |
+| encountered        | meet                                                         | rencontrer          |
+| swamps             | shallow stagnant water table, invaded by aquatic vegetation. | marais              |
+| a shelter          | basic installation intented to protect                       | un abris            |
+| underfunded        | there is not enough money for this  cause                    | sous financé        |
 
 ## Analysis table about the study:
 
