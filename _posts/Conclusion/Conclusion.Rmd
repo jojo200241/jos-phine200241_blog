@@ -1,0 +1,22 @@
+---
+title: "Conclusion"
+author: 
+  - name: "Joséphine" 
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+In conclusion: 
+
+These articles allow several understandings: 
+1) When we get bitten by a poisonous snake, the only thing that can save us is to find help with an anti-venom. 
+
+2) Snake venoms from different regions and continents are able to evolve separately to arrive at the same final product. Which is proof that this is the best "formula". 
+
+3) Plant venom can contain the same protein as animal venom, phospholipase A2. Which produces unbearable pain. It is therefore this protein which has been selected several times during the evolution of different animal and plant species. 
+
+4) The venom can be found in unexpected places, such as in an amphibian bite, in spider webs, and even in starfish. 
+
+5) An anti-venom pill is in preparation, at the moment it seems to be almost ready for the venoms which produce hemorrhages and tissue damage but not yet for the venoms acting directly on the nerves. 
+
+

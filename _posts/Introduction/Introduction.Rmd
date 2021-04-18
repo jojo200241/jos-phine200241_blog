@@ -1,0 +1,15 @@
+---
+title: "Introduction"
+author: 
+  - name: "Joséphine" 
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+*Introduction
+
+The articles on this blog are all about natural venom. Whether they come from animals or plants.
+Some explain their contents or their evolution and others what to do and not to do when you get bitten by a poisonous snake.
+After reading these articles I hope you learned something and come out of it better.
+Good reading!
+
